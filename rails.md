@@ -2,6 +2,8 @@
 
 Read on 30 Sep 2026 against [sixpack.wtf/1984.html](https://sixpack.wtf/1984.html) and [STP-KAS/1984-why-what-how](https://github.com/STP-KAS/1984-why-what-how). If the page and that note disagree, say so. This file is the economics. The page note is the visit.
 
+The rails exist so a bill can be paid. The bills in front of this desk are a car, an AI service, a game purchase, and a rented service. [hunts.md](hunts.md) drafts those shapes. The square can walk a toy version. A stranger still cannot receive the unit those bills are priced in. [plan.md](plan.md) stays at the classroom until that receive exists.
+
 KCC-20 is still Draft. The master file still says there is no spendable layer-1 stable. The till in the square compiles no SilverScript covenant. A shop row is a village ledger row. Coffee is a purchase in that ledger. A vProg guest sequences a declared ply in tic-tac-toe. The square does not sequence coffee.
 
 ## What each rail is for
