@@ -2,6 +2,8 @@
 
 Each block is a draft the desk can write once [plan.md](plan.md) says the gate is open for that rail. In phase 0 every block is a shape, and the square is the only till.
 
+The brand names below (a lab, a lot, a dish, a catalog) are cheap talk if you read them as live checkout. They are not. They name the *shape* of a bill so Ask does not invent a new category every time. The vision is unchanged: when a stranger can receive POC or a tether-style coin, the community's spend goes to the till that accepts that rail and whose pack clears. Hunt Hall on the square is the switch you can walk today. See [stable-staghunt-theory/IDEA.md](https://github.com/STP-KAS/stable-staghunt-theory/blob/main/IDEA.md).
+
 The same five numbers show up in every block.
 
 - **Stag.** The outcome that is better for everyone who joins, and worse for the person who arrives alone.
