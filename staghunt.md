@@ -1,14 +1,20 @@
 # Project Staghunt, in the words this desk will use
 
-Canon is Yonatan Sompolinsky's six-pager, Project Staghunt, dated 2026-04-01, on [hashd.ag](https://hashd.ag), and the Oxford Union address of March 2026. The independent reading is [STP-KAS/staghunt-grok-review](https://github.com/STP-KAS/staghunt-grok-review). This file is a brief for Ask and for the bot. It is a paraphrase so they aim at the same object. The six-pager remains the source.
+Canon is Yonatan Sompolinsky's six-pager, Project Staghunt, dated 2026-04-01, on [hashd.ag](https://hashd.ag), and the Oxford Union address of March 2026. The independent reading is [STP-KAS/staghunt-grok-review](https://github.com/STP-KAS/staghunt-grok-review). This file is a brief for Ask and for the bot. It is a paraphrase so they aim at the same object. The six-pager remains the source. Desk note: [stable-staghunt-theory/IDEA.md](https://github.com/STP-KAS/stable-staghunt-theory/blob/main/IDEA.md).
+
+## Cheap talk and the switch
+
+Cheap talk is the rant, the group chat, the thread, and also a catalog that names Grok, a Roadster, Starlink, or Netflix as if those tills already take a Kaspa stable. It does not bind. The internet already has the rant.
+
+The missing piece is the bound move: you promise a fixed bill; you pick how many others must promise too; nobody sees the running count; if a subset meets every member's number, that subset pays together; if not, your coin never moved. That is the switch. Alone you can still sign. That is not failure. That is the stag.
+
+The vision stays. When a stranger can receive POC-shape or tether-shape money on Kaspa, the same switch points at a real address. Shops that accept those rails are where Kaspa people spend. Until then the examples in [hunts.md](hunts.md) are shapes of a bill, and Hunt Hall is the classroom.
 
 ## The game
 
 Two hunters can take a stag together and eat well, or each take a hare alone and eat for a few hours. Once both are on the stag, neither gains by sneaking off. The hard part is the start. If you go for the stag and the other hunter stays with hares, you go hungry. Communities get stuck hunting hares because moving first is the way to lose.
 
 Yonatan calls that stickiness Azazel: people already want to act together, and they have no way to bind the act. Moloch is the other failure, the one where each person gains by cheating. A cheat needs a referee who can punish. A failed start needs a promise that only counts when enough promises count. He calls that promise an intendo. The older name in economics is an assurance contract: I will do this if enough others do it too.
-
-Cheap talk is the rant, the group chat, the thread. It does not bind. The internet already has the rant. The missing piece is the bound move.
 
 ## Stag, pack, hunt
 
